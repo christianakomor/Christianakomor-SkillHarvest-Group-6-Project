@@ -1,11 +1,11 @@
 # Christianakomor-SkillHarvest-Group-6-Project
 
 ### Project Overview
-
+---
 For this project, we are doing exploratory data analysis on Olympics Games data. Our objective was to develop a comprehensive and interactive Power BI report that showcases insights into key aspects of the Olympics. This project serves as a demonstration of our data analysis skills, from data import and transformation to data modeling and visualization.
 
 ### Data Import Process
-
+---
 To begin the analysis, we imported two(2) CSV files format that captured different aspects of the Olympics. Each dataset provided a unique view of the event, such as athlete names, countries, gender, disciplines, sports, events and the number of medals won. The primary datasets we used included:
 
 ### Summer & Winter csv: 
@@ -13,20 +13,20 @@ Contains information about athletes, including their country and discipline, the
 Power BI’s 'Get Data' feature made the import process seamless, supporting various file formats. We used CSV files, which were easily integrated into Power BI. During this step, we ensured that all datasets were formatted consistently, and we took note of any potential issues like missing values or incorrect data types.
 
 ### Challenges faced:
-
+---
 One of the datasets had inconsistent data formats, such as commas in the name field or text fields where numeric values were expected. These issues were resolved during the data transformation phase.
 
 ### Tool Used
-
+---
   1. Microsoft Excel [Download Here](htpp://www.microsoft.com)
   2. Microsoft Power Bi
 
 ### Data Transformations
-
+---
 Data cleaning and transformation are critical steps in preparing raw data for analysis. In Power BI, we used Power Query to apply various transformations, ensuring that the data was consistent, accurate, and ready for analysis.
 
 ## Key transformations we applied included:
-
+---
 ### Replacing Values: 
 we replaced missing or inconsistent values using Power Query’s Replace Values feature, especially in cases where country names or abbreviations were inconsistent across datasets.
 
@@ -38,7 +38,7 @@ We added calculated columns for total medal to ensure these values could be easi
 This transformation phase ensured that the data was clean and cohesive, making the modeling and visualization processes more efficient.
 
 ### Key insights include:
-
+---
 We analyze the performance of men versus women in the Olympic Games. By categorizing medal count and gender, we can discern how some countries may have higher performing athletes from men or women.
 
   1. Count of Medal By Gender.
@@ -48,7 +48,7 @@ We analyze the performance of men versus women in the Olympic Games. By categori
   5. op 10 Countries by Medals.
 
 ## Crafting DAX Measures for Deeper Insights
-
+---
 Once the model was established, we used DAX (Data Analysis Expressions) to create dynamic measures for key insights. These measures allowed us to perform complex calculations on the fly, enabling the dashboard to display dynamic and context-sensitive metrics based on the user’s interactions. Key measures created:
 
 ### Total Sports:
@@ -70,7 +70,7 @@ WHERE Total Athletes = COUNTROWS(Athletes)
 This measure counted the total number of athletes across all countries and disciplines.
 
 ## Data Visualization
-
+---
 ### Title: 
 Creating Interactive Dashboards with Power BI
 
@@ -92,14 +92,14 @@ We created custom buttons for smooth navigation between different report pages, 
 Used to display the Medal Distribution across countries and global participation in the Olympics.
 
 ### Example screenshot:
-
+---
 ![Screenshot 2](https://github.com/user-attachments/assets/3b75178b-f731-4616-9efc-b4ba78d373b3)
 
 ![Screenshot 1](https://github.com/user-attachments/assets/da068eab-8de9-4d44-b248-17832398262f)
 
 
 ## Conclusion
-
+---
 This project showcases the end-to-end process of working with Power BI, from data import and transformation to building advanced data models and creating interactive dashboards. The result is a comprehensive report that provides valuable insights into the Olympics, making it easy to explore medal distributions, athlete participation, and country rankings. Working on this project allowed us to deepen our expertise in Power BI, particularly in crafting efficient data models, writing dynamic DAX measures, and creating user-friendly visualizations. We look forward to applying these skills in real-world business environments to deliver actionable insights. “Explore the full interactive report here: Power BI Olympic Report”.
 
 
