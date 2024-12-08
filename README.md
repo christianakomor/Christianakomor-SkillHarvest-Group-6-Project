@@ -2,12 +2,12 @@
 ## Table Outline
 ### [Project Overview](#project-overview)
 ### [Data Import Process](#data-import-process)
-### [Summer & Winter csv:](#summer-&-winter-csv:)
-### Challenges faced:
-### Tool Used
-### Data Transformations
-### Key insights
-### Conclusion
+### [Summer & Winter csv](#summer-&-winter-csv)
+### [Challenges faced:](#challenges-faced)
+### [Tool Used])(#tools-used)
+### [Data Transformations](#data-transformations)
+### [Key insights](#key-insights)
+### [Conclusion](#conclusion)
 
 
 
@@ -28,7 +28,7 @@ Power BI’s 'Get Data' feature made the import process seamless, supporting v
 ---
 One of the datasets had inconsistent data formats, such as commas in the name field or text fields where numeric values were expected. These issues were resolved during the data transformation phase.
 
-### Tool Used
+### Tools Used
 ---
   1. Microsoft Excel [Download Here](htpp://www.microsoft.com)
   2. Microsoft Power Bi
