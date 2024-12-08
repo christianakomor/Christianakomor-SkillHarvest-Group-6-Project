@@ -4,7 +4,7 @@
 ## [Data Import Process](#data-import-process)
 ## [Summer & Winter csv](#summer-&-winter-csv)
 ## [Challenges faced](#challenges-faced)
-## [Tools Used])(#tools-used)
+## [Tools Used](#tools-used)
 ## [Data Transformations](#data-transformations)
 ## [Key insights](#key-insights)
 ## [Conclusion](#conclusion)
