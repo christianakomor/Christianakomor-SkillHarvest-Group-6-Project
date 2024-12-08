@@ -3,8 +3,8 @@
 ### [Project Overview](#project-overview)
 ### [Data Import Process](#data-import-process)
 ### [Summer & Winter csv](#summer-&-winter-csv)
-### [Challenges faced:](#challenges-faced)
-### [Tool Used])(#tools-used)
+### [Challenges faced](#challenges-faced)
+### [Tools Used])(#tools-used)
 ### [Data Transformations](#data-transformations)
 ### [Key insights](#key-insights)
 ### [Conclusion](#conclusion)
@@ -24,7 +24,7 @@ To begin the analysis, we imported two(2) CSV files format that captured diffe
 Contains information about athletes, including their country and discipline, the total count of gold, silver, and bronze medals won by countries. And also, shows the gender distribution of participants in each discipline. It is an open source data that was freely downloaded from Kaggle.com.
 Power BI’s 'Get Data' feature made the import process seamless, supporting various file formats. We used CSV files, which were easily integrated into Power BI. During this step, we ensured that all datasets were formatted consistently, and we took note of any potential issues like missing values or incorrect data types.
 
-### Challenges faced:
+### Challenges faced
 ---
 One of the datasets had inconsistent data formats, such as commas in the name field or text fields where numeric values were expected. These issues were resolved during the data transformation phase.
 
