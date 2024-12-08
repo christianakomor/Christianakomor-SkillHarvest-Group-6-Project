@@ -1,13 +1,15 @@
 # Christianakomor-SkillHarvest-Group-6-Project
 ## Table Outline
-## [Project Overview](#project-overview)
-### Data Import Process
-### Summer & Winter csv:
+### [Project Overview](#project-overview)
+### [Data Import Process](#data-import-process)
+### [Summer & Winter csv:](#summer-&-winter-csv:)
 ### Challenges faced:
 ### Tool Used
 ### Data Transformations
 ### Key insights
 ### Conclusion
+
+
 
 
 ### Project Overview
