@@ -107,6 +107,7 @@ Used to display the Medal Distribution across countries and global participat
 
 ![Screenshot 1](https://github.com/user-attachments/assets/da068eab-8de9-4d44-b248-17832398262f)
 
+![389606572-b4f15ecf-72a2-4133-8e7e-c0f7be24a925](https://github.com/user-attachments/assets/121bac6c-1fd9-451a-8832-33362c8c0809)
 
 ### Conclusion
 ---
