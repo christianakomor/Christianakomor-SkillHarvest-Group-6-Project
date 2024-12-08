@@ -1,7 +1,7 @@
 # Christianakomor-SkillHarvest-Group-6-Project
 ## Table Outline
-### [Conclusion](#conclusion)
 
+## [Conclusion](#conclusion)
 
 
 
