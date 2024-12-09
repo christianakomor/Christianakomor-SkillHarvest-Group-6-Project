@@ -1,6 +1,6 @@
 # Christianakomor-SkillHarvest-Group-6-Project
-## Table Outline
-## [Project Overview](#project-overview)
+#### Table Outline
+#### [Project Overview](#project-overview)
 ## [Data Import Process](#data-import-process)
 ## [Challenges faced](#challenges-faced)
 ## [Tools Used](#tools-used)
